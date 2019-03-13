@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1069333280972",
+    "firebase_url": "https://election-a6f86.firebaseio.com",
+    "project_id": "election-a6f86",
+    "storage_bucket": "election-a6f86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069333280972:android:1c18f0d83fc2107d",
+        "android_client_info": {
+          "package_name": "com.example.voting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069333280972-unk8j9cco5vti23qggka89g6uma4fsr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbMb5XOTCG7RJI4xWc6osuqs6O-44q-Lc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
